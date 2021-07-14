@@ -1,3 +1,3 @@
 Readme no projeto 
 
-Testando um, 2, três
+Projeto de estudos em GIT
